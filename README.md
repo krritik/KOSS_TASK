@@ -13,10 +13,11 @@ then to write this program ,we need a proxy free internet like mobile data since
 
 
 ##  for making a new project in python scrapy 
-we need to type "scrapy startproject <projectname>" 	in the terminal
+we need to type "scrapy startproject projectname" 	in the terminal
   
 ##  for running a program   
-we need to type "sudo scrapy crawl <spidername>" in the terminal like for this it is "amazon"
+we need to type "sudo scrapy crawl spidername" in the terminal like
+           for this program spidername is "amazon"
             "sudo" is used because sometimes it denies the permissinon or network access
   
 ##  for input data
